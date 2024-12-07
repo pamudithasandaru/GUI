@@ -1,2 +1,4 @@
 # GUI
-GUI project
+GUI project - Salon Management System
+
+The Salon Management System aims to streamline salon operations by providing a web-based platform for appointment scheduling, staff management, service offerings, and business performance tracking. Customers will be able to book appointments, select beauticians, and make payments online, while salon administrators can manage staff schedules, services, and monitor key performance metrics. The backend will be built using C# and Entity Framework Core, with a RESTful API for data management. The frontend will utilize React, HTML, CSS, and JavaScript for a responsive, user-friendly interface. This system will improve operational efficiency, enhance customer satisfaction, and facilitate business management through real-time synchronization and seamless integration of all features.
