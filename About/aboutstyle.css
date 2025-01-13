@@ -255,8 +255,7 @@ header .menu{
 
 .section {
     padding-top: 50px;
-    text-align: center;
-    font-size: 13px;
+    text-align: justify;
     align-items: center;
     opacity: 0;
     transform: translateY(50px);
@@ -306,6 +305,7 @@ header .menu{
 }
 
 .section .section1 {
+    text-align: left;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -314,8 +314,13 @@ header .menu{
     background: #fff;
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: transform 0.4s ease, box-shadow 0.4s ease;
 }
 
+.section .section1:hover{
+    transform: scale(1.05); 
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); 
+}
 .section .section1 img {
     width: 100%;
     border-radius: 8px;
@@ -386,11 +391,255 @@ header .menu{
     padding-right: 20px;
     padding-bottom: 20px;
     padding-left: 20px;
-    background-color: #d9acdb;
+    background-color: #eb5bc7;
+}
+.room-container {
+    margin-left: 5%;
+    display: flex;
+    flex-direction: row;
+    max-width: 90%;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    overflow: hidden;
+   
+    align-items: center;
+    border-width: 2px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  }
+
+  .room-image {
+    flex: 1.2;
+  }
+
+  .room-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.4s ease, box-shadow 0.4s ease;
+  }
+
+  .room-image:hover img {
+    transform: scale(1.05);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
 }
 
+  .room-details {
+    align-items: center;
+    flex: 1.5;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  .room-details h2 {
+    margin: 0 0 10px;
+    font-size: 24px;
+    color: #333;
+  }
+
+  .room-details ul {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 20px;
+  }
+
+  .room-details ul li {
+    margin: 5px 0;
+    font-size: 16px;
+    color: #666;
+  }
+
+  .room-details p {
+    margin: 0 0 20px;
+    /* color: #555; */
+    font-size: 16px;
+    line-height: 1.5;
+  }
 
 
+  .hall-container {
+    width: 90%;
+    max-width: 90%;
+    margin: 0 auto;
+    /* padding: 20px; */
+    display: flex;
+    flex-wrap: wrap;
+    gap: 35px;
+  }
+
+  .hall-card {
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    /* box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); */
+    overflow: hidden;
+    flex: 1 1 calc(40% - 20px);
+    display: flex;
+    flex-direction: column;
+    height: 80vh;
+    border-width: 2px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  }
+
+  .hall-card img {
+    width: 100%;
+    height: 60%;
+    object-fit: cover;
+    transition: transform 0.4s ease, box-shadow 0.4s ease;
+  }
+
+  .hall-card:hover img {
+    transform: scale(1.05);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+  .hall-card-content {
+    padding: 20px;
+    flex: 1;
+  }
+
+  .hall-card-content h3 {
+    margin: 0 0 10px;
+    font-size: 18px;
+    color: #333;
+  }
+
+  .hall-card-content .hall-price {
+    font-size: 16px;
+    color: #007bff;
+    margin-bottom: 15px;
+    font-weight: bold;
+  }
+
+  .hall-card-content .hall-features, 
+  .hall-card-content .hall-facilities, 
+  .hall-card-content .hall-guests {
+    font-size: 14px;
+    margin-bottom: 10px;
+    color: #555;
+  }
+
+  .hall-card-content .hall-features span, 
+  .hall-card-content .hall-facilities span, 
+  .hall-card-content .hall-guests span {
+    display: inline-block;
+    background: #f0f0f0;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 5px 5px 0 0;
+  }
+
+  .hall-card-content .hall-rating {
+    color: #f1c40f;
+    margin-bottom: 15px;
+  }
+
+  .hall-card-actions {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    border-top: 1px solid #ddd;
+  }
+
+  .hall-card-actions button {
+    padding: 10px 15px;
+    font-size: 14px;
+    color: #fff;
+    background-color: #28a745;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+
+  .hall-card-actions button.secondary {
+    background-color: #007bff;
+  }
+
+  .hall-card-actions button:hover {
+    opacity: 0.9;
+  }
+  .modal {
+    display: none;
+    position: fixed;
+    z-index:100;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.6);
+  }
+  
+  /* Modal content */
+  .modal-content {
+    background-color: #fff;
+    margin: 10% auto;
+    padding: 20px;
+    border-radius: 5px;
+    width: 80%;
+    max-width: 500px;
+    text-align: left !important; 
+  }
+  
+  /* The close button */
+  .modal .close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+  }
+  
+  /* The close button on hover */
+  .modal .close:hover {
+    color: red;
+
+    cursor: pointer;
+  }
+  
+  /* Style form */
+  .modal form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  /* Label styling */
+  .modal label {
+    /* margin-top: 5px; */
+    font-weight: bold;
+  }
+  
+  /* Input and select styling */
+  .modal input[type="text"], input[type="date"], select {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    border-color:#FC0FC0 ;
+  }
+  
+  /* Submit button */
+  .modal button[type="submit"] {
+    background-color: #FC0FC0;
+    color: #ffffff;
+    border: none;
+    padding: 12px 24px;
+    font-size: 16px;
+    border-radius: 8px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: transform 0.3s ease, background-color 0.3s ease,border-color 0.3s ease,color 0.3s ease;
+    position: relative;
+  }
+  
+  /* Submit button on hover */
+  .modal button[type="submit"]:hover {
+    transform: translateY(-5px) scale(1.1);
+    background-color: #393838;
+    /* border-color: #fff; */
+    color: #fff;
+  }
 
 
 

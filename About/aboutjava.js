@@ -50,3 +50,40 @@ document.addEventListener("scroll", () => {
         }
     });
 });
+const bookNowButtons = document.querySelectorAll('.bookNowButton');
+const bookingModal = document.getElementById('bookingModal');
+const closeModal = document.getElementsByClassName('close')[0];
+const bookingForm = document.getElementById('bookingForm');
+
+// Add event listeners to each 'Book Now' button
+bookNowButtons.forEach((button) => {
+  button.addEventListener('click', function () {
+    bookingModal.style.display = 'block';
+  });
+});
+
+// Close the modal
+closeModal.onclick = function () {
+  bookingModal.style.display = 'none';
+};
+
+// Close the modal when clicking outside the modal content
+window.onclick = function (event) {
+  if (event.target == bookingModal) {
+    bookingModal.style.display = 'none';
+  }
+};
+
+// Handle form submission
+bookingForm.onsubmit = function (e) {
+  e.preventDefault();
+  const name = document.getElementById('customerName').value;
+  const nicNumber = document.getElementById('nicNumber').value;
+  const time = document.getElementById('selectTime').value;
+  const beautician = document.getElementById('selectBeautician').value;
+  const date = document.getElementById('datePicker').value;
+  const package = document.getElementById('selectPackage').value;
+
+  console.log(`Booking Details:\nName: ${name}\nNIC: ${nicNumber}\nTime: ${time}\nBeautician: ${beautician}\nDate: ${date}\nPackage: ${package}`);
+  bookingModal.style.display = 'none'; // Close modal after submission
+};
