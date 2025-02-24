@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "GrayscaleEffect/1.0.1": {
+        "runtime": {
+          "lib/GrayscaleEffect.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GrayscaleEffect/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-h95jGu4SEKrxe8/3IPR068bKRKY6EE+P6kZISKwenH6spvCByd+yab3OC+91y9ShgeTgz/FODb3oK3q2p93GQg==",
+      "path": "grayscaleeffect/1.0.1",
+      "hashPath": "grayscaleeffect.1.0.1.nupkg.sha512"
+    }
+  }
+}

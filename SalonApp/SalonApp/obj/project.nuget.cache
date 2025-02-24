@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qi5MM7D6/FI=",
+  "success": true,
+  "projectFilePath": "D:\\labs\\wpf tute\\project4\\SalonApp\\SalonApp\\SalonApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACER\\.nuget\\packages\\grayscaleeffect\\1.0.1\\grayscaleeffect.1.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'GrayscaleEffect 1.0.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net9.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "GrayscaleEffect",
+      "targetGraphs": [
+        "net9.0-windows7.0"
+      ]
+    }
+  ]
+}
