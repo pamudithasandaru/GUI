@@ -36,3 +36,42 @@ D:\labs\wpf tute\project4\SalonApp\SalonApp\obj\Debug\net9.0-windows\Views\Booki
 D:\labs\wpf tute\project4\SalonApp\SalonApp\obj\Debug\net9.0-windows\Views\CustomersPage.g.cs
 D:\labs\wpf tute\project4\SalonApp\SalonApp\obj\Debug\net9.0-windows\Views\EmployeesPage.g.cs
 D:\labs\wpf tute\project4\SalonApp\SalonApp\obj\Debug\net9.0-windows\Views\ServicesPage.g.cs
+C:\Users\ACER\Documents\GitHub\GUI\SalonApp\SalonApp\bin\Debug\net9.0-windows\SalonApp.exe
+C:\Users\ACER\Documents\GitHub\GUI\SalonApp\SalonApp\bin\Debug\net9.0-windows\SalonApp.deps.json
+C:\Users\ACER\Documents\GitHub\GUI\SalonApp\SalonApp\bin\Debug\net9.0-windows\SalonApp.runtimeconfig.json
+C:\Users\ACER\Documents\GitHub\GUI\SalonApp\SalonApp\bin\Debug\net9.0-windows\SalonApp.dll
+C:\Users\ACER\Documents\GitHub\GUI\SalonApp\SalonApp\bin\Debug\net9.0-windows\SalonApp.pdb
+C:\Users\ACER\Documents\GitHub\GUI\SalonApp\SalonApp\bin\Debug\net9.0-windows\GrayscaleEffect.dll
+C:\Users\ACER\Documents\GitHub\GUI\SalonApp\SalonApp\obj\Debug\net9.0-windows\SalonApp.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\GitHub\GUI\SalonApp\SalonApp\obj\Debug\net9.0-windows\Login.baml
+C:\Users\ACER\Documents\GitHub\GUI\SalonApp\SalonApp\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\ACER\Documents\GitHub\GUI\SalonApp\SalonApp\obj\Debug\net9.0-windows\SignUp.baml
+C:\Users\ACER\Documents\GitHub\GUI\SalonApp\SalonApp\obj\Debug\net9.0-windows\SplashScreen.baml
+C:\Users\ACER\Documents\GitHub\GUI\SalonApp\SalonApp\obj\Debug\net9.0-windows\Views\BookingsPage.baml
+C:\Users\ACER\Documents\GitHub\GUI\SalonApp\SalonApp\obj\Debug\net9.0-windows\Views\CustomersPage.baml
+C:\Users\ACER\Documents\GitHub\GUI\SalonApp\SalonApp\obj\Debug\net9.0-windows\Views\EmployeesPage.baml
+C:\Users\ACER\Documents\GitHub\GUI\SalonApp\SalonApp\obj\Debug\net9.0-windows\Views\ServicesPage.baml
+C:\Users\ACER\Documents\GitHub\GUI\SalonApp\SalonApp\obj\Debug\net9.0-windows\Login.g.cs
+C:\Users\ACER\Documents\GitHub\GUI\SalonApp\SalonApp\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\ACER\Documents\GitHub\GUI\SalonApp\SalonApp\obj\Debug\net9.0-windows\SignUp.g.cs
+C:\Users\ACER\Documents\GitHub\GUI\SalonApp\SalonApp\obj\Debug\net9.0-windows\SplashScreen.g.cs
+C:\Users\ACER\Documents\GitHub\GUI\SalonApp\SalonApp\obj\Debug\net9.0-windows\Views\BookingsPage.g.cs
+C:\Users\ACER\Documents\GitHub\GUI\SalonApp\SalonApp\obj\Debug\net9.0-windows\Views\CustomersPage.g.cs
+C:\Users\ACER\Documents\GitHub\GUI\SalonApp\SalonApp\obj\Debug\net9.0-windows\Views\EmployeesPage.g.cs
+C:\Users\ACER\Documents\GitHub\GUI\SalonApp\SalonApp\obj\Debug\net9.0-windows\Views\ServicesPage.g.cs
+C:\Users\ACER\Documents\GitHub\GUI\SalonApp\SalonApp\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\ACER\Documents\GitHub\GUI\SalonApp\SalonApp\obj\Debug\net9.0-windows\SalonApp_MarkupCompile.cache
+C:\Users\ACER\Documents\GitHub\GUI\SalonApp\SalonApp\obj\Debug\net9.0-windows\SalonApp.g.resources
+C:\Users\ACER\Documents\GitHub\GUI\SalonApp\SalonApp\obj\Debug\net9.0-windows\SalonApp.Resource1.resources
+C:\Users\ACER\Documents\GitHub\GUI\SalonApp\SalonApp\obj\Debug\net9.0-windows\SalonApp.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\GitHub\GUI\SalonApp\SalonApp\obj\Debug\net9.0-windows\SalonApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Documents\GitHub\GUI\SalonApp\SalonApp\obj\Debug\net9.0-windows\SalonApp.AssemblyInfoInputs.cache
+C:\Users\ACER\Documents\GitHub\GUI\SalonApp\SalonApp\obj\Debug\net9.0-windows\SalonApp.AssemblyInfo.cs
+C:\Users\ACER\Documents\GitHub\GUI\SalonApp\SalonApp\obj\Debug\net9.0-windows\SalonApp.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\GitHub\GUI\SalonApp\SalonApp\obj\Debug\net9.0-windows\SalonApp.sourcelink.json
+C:\Users\ACER\Documents\GitHub\GUI\SalonApp\SalonApp\obj\Debug\net9.0-windows\SalonApp.csproj.Up2Date
+C:\Users\ACER\Documents\GitHub\GUI\SalonApp\SalonApp\obj\Debug\net9.0-windows\SalonApp.dll
+C:\Users\ACER\Documents\GitHub\GUI\SalonApp\SalonApp\obj\Debug\net9.0-windows\refint\SalonApp.dll
+C:\Users\ACER\Documents\GitHub\GUI\SalonApp\SalonApp\obj\Debug\net9.0-windows\SalonApp.pdb
+C:\Users\ACER\Documents\GitHub\GUI\SalonApp\SalonApp\obj\Debug\net9.0-windows\SalonApp.genruntimeconfig.cache
+C:\Users\ACER\Documents\GitHub\GUI\SalonApp\SalonApp\obj\Debug\net9.0-windows\ref\SalonApp.dll

@@ -39,11 +39,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\labs\\wpf tute\\project4\\SalonApp\\SalonApp\\SalonApp.csproj",
+      "projectUniqueName": "C:\\Users\\ACER\\Documents\\GitHub\\GUI\\SalonApp\\SalonApp\\SalonApp.csproj",
       "projectName": "SalonApp",
-      "projectPath": "D:\\labs\\wpf tute\\project4\\SalonApp\\SalonApp\\SalonApp.csproj",
+      "projectPath": "C:\\Users\\ACER\\Documents\\GitHub\\GUI\\SalonApp\\SalonApp\\SalonApp.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "D:\\labs\\wpf tute\\project4\\SalonApp\\SalonApp\\obj\\",
+      "outputPath": "C:\\Users\\ACER\\Documents\\GitHub\\GUI\\SalonApp\\SalonApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

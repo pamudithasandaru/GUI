@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qi5MM7D6/FI=",
+  "dgSpecHash": "nErnhk9De5o=",
   "success": true,
-  "projectFilePath": "D:\\labs\\wpf tute\\project4\\SalonApp\\SalonApp\\SalonApp.csproj",
+  "projectFilePath": "C:\\Users\\ACER\\Documents\\GitHub\\GUI\\SalonApp\\SalonApp\\SalonApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ACER\\.nuget\\packages\\grayscaleeffect\\1.0.1\\grayscaleeffect.1.0.1.nupkg.sha512"
   ],
