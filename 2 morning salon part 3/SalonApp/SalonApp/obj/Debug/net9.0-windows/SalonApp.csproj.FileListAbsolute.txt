@@ -1,0 +1,91 @@
+D:\labs\wpf tute\project4\SalonApp\SalonApp\bin\Debug\net9.0-windows\SalonApp.exe
+D:\labs\wpf tute\project4\SalonApp\SalonApp\bin\Debug\net9.0-windows\SalonApp.deps.json
+D:\labs\wpf tute\project4\SalonApp\SalonApp\bin\Debug\net9.0-windows\SalonApp.runtimeconfig.json
+D:\labs\wpf tute\project4\SalonApp\SalonApp\bin\Debug\net9.0-windows\SalonApp.dll
+D:\labs\wpf tute\project4\SalonApp\SalonApp\bin\Debug\net9.0-windows\SalonApp.pdb
+D:\labs\wpf tute\project4\SalonApp\SalonApp\obj\Debug\net9.0-windows\Login.baml
+D:\labs\wpf tute\project4\SalonApp\SalonApp\obj\Debug\net9.0-windows\SignUp.baml
+D:\labs\wpf tute\project4\SalonApp\SalonApp\obj\Debug\net9.0-windows\SplashScreen.baml
+D:\labs\wpf tute\project4\SalonApp\SalonApp\obj\Debug\net9.0-windows\Login.g.cs
+D:\labs\wpf tute\project4\SalonApp\SalonApp\obj\Debug\net9.0-windows\MainWindow.g.cs
+D:\labs\wpf tute\project4\SalonApp\SalonApp\obj\Debug\net9.0-windows\SignUp.g.cs
+D:\labs\wpf tute\project4\SalonApp\SalonApp\obj\Debug\net9.0-windows\SplashScreen.g.cs
+D:\labs\wpf tute\project4\SalonApp\SalonApp\obj\Debug\net9.0-windows\App.g.cs
+D:\labs\wpf tute\project4\SalonApp\SalonApp\obj\Debug\net9.0-windows\SalonApp_MarkupCompile.cache
+D:\labs\wpf tute\project4\SalonApp\SalonApp\obj\Debug\net9.0-windows\MainWindow.baml
+D:\labs\wpf tute\project4\SalonApp\SalonApp\obj\Debug\net9.0-windows\SalonApp.g.resources
+D:\labs\wpf tute\project4\SalonApp\SalonApp\obj\Debug\net9.0-windows\SalonApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\labs\wpf tute\project4\SalonApp\SalonApp\obj\Debug\net9.0-windows\SalonApp.AssemblyInfoInputs.cache
+D:\labs\wpf tute\project4\SalonApp\SalonApp\obj\Debug\net9.0-windows\SalonApp.AssemblyInfo.cs
+D:\labs\wpf tute\project4\SalonApp\SalonApp\obj\Debug\net9.0-windows\SalonApp.csproj.CoreCompileInputs.cache
+D:\labs\wpf tute\project4\SalonApp\SalonApp\obj\Debug\net9.0-windows\SalonApp.dll
+D:\labs\wpf tute\project4\SalonApp\SalonApp\obj\Debug\net9.0-windows\refint\SalonApp.dll
+D:\labs\wpf tute\project4\SalonApp\SalonApp\obj\Debug\net9.0-windows\SalonApp.pdb
+D:\labs\wpf tute\project4\SalonApp\SalonApp\obj\Debug\net9.0-windows\SalonApp.genruntimeconfig.cache
+D:\labs\wpf tute\project4\SalonApp\SalonApp\obj\Debug\net9.0-windows\ref\SalonApp.dll
+D:\labs\wpf tute\project4\SalonApp\SalonApp\obj\Debug\net9.0-windows\SalonApp.Resource1.resources
+D:\labs\wpf tute\project4\SalonApp\SalonApp\obj\Debug\net9.0-windows\SalonApp.csproj.GenerateResource.cache
+D:\labs\wpf tute\project4\SalonApp\SalonApp\bin\Debug\net9.0-windows\GrayscaleEffect.dll
+D:\labs\wpf tute\project4\SalonApp\SalonApp\obj\Debug\net9.0-windows\SalonApp.csproj.AssemblyReference.cache
+D:\labs\wpf tute\project4\SalonApp\SalonApp\obj\Debug\net9.0-windows\SalonApp.csproj.Up2Date
+D:\labs\wpf tute\project4\SalonApp\SalonApp\obj\Debug\net9.0-windows\Views\BookingsPage.baml
+D:\labs\wpf tute\project4\SalonApp\SalonApp\obj\Debug\net9.0-windows\Views\CustomersPage.baml
+D:\labs\wpf tute\project4\SalonApp\SalonApp\obj\Debug\net9.0-windows\Views\EmployeesPage.baml
+D:\labs\wpf tute\project4\SalonApp\SalonApp\obj\Debug\net9.0-windows\Views\ServicesPage.baml
+D:\labs\wpf tute\project4\SalonApp\SalonApp\obj\Debug\net9.0-windows\Views\BookingsPage.g.cs
+D:\labs\wpf tute\project4\SalonApp\SalonApp\obj\Debug\net9.0-windows\Views\CustomersPage.g.cs
+D:\labs\wpf tute\project4\SalonApp\SalonApp\obj\Debug\net9.0-windows\Views\EmployeesPage.g.cs
+D:\labs\wpf tute\project4\SalonApp\SalonApp\obj\Debug\net9.0-windows\Views\ServicesPage.g.cs
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\bin\Debug\net9.0-windows\SalonApp.exe
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\bin\Debug\net9.0-windows\SalonApp.deps.json
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\bin\Debug\net9.0-windows\SalonApp.runtimeconfig.json
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\bin\Debug\net9.0-windows\SalonApp.dll
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\bin\Debug\net9.0-windows\SalonApp.pdb
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\bin\Debug\net9.0-windows\EntityFramework.SqlServer.dll
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\bin\Debug\net9.0-windows\EntityFramework.dll
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\bin\Debug\net9.0-windows\GrayscaleEffect.dll
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\bin\Debug\net9.0-windows\System.Data.SQLite.dll
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\bin\Debug\net9.0-windows\System.Data.SqlClient.dll
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\bin\Debug\net9.0-windows\System.Data.SQLite.EF6.dll
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\bin\Debug\net9.0-windows\System.Data.SQLite.Linq.dll
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\bin\Debug\net9.0-windows\runtimes\win-arm64\native\sni.dll
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\bin\Debug\net9.0-windows\runtimes\win-x64\native\sni.dll
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\bin\Debug\net9.0-windows\runtimes\win-x86\native\sni.dll
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\bin\Debug\net9.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\bin\Debug\net9.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\bin\Debug\net9.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\bin\Debug\net9.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\bin\Debug\net9.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\bin\Debug\net9.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\obj\Debug\net9.0-windows\SalonApp.csproj.AssemblyReference.cache
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\obj\Debug\net9.0-windows\Login.baml
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\obj\Debug\net9.0-windows\MainWindow.baml
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\obj\Debug\net9.0-windows\SignUp.baml
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\obj\Debug\net9.0-windows\SplashScreen.baml
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\obj\Debug\net9.0-windows\Views\BookingsPage.baml
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\obj\Debug\net9.0-windows\Views\CustomersPage.baml
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\obj\Debug\net9.0-windows\Views\EmployeesPage.baml
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\obj\Debug\net9.0-windows\Views\ServicesPage.baml
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\obj\Debug\net9.0-windows\Login.g.cs
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\obj\Debug\net9.0-windows\MainWindow.g.cs
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\obj\Debug\net9.0-windows\SignUp.g.cs
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\obj\Debug\net9.0-windows\SplashScreen.g.cs
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\obj\Debug\net9.0-windows\Views\BookingsPage.g.cs
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\obj\Debug\net9.0-windows\Views\CustomersPage.g.cs
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\obj\Debug\net9.0-windows\Views\EmployeesPage.g.cs
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\obj\Debug\net9.0-windows\Views\ServicesPage.g.cs
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\obj\Debug\net9.0-windows\App.g.cs
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\obj\Debug\net9.0-windows\SalonApp_MarkupCompile.cache
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\obj\Debug\net9.0-windows\SalonApp.g.resources
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\obj\Debug\net9.0-windows\SalonApp.Resource1.resources
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\obj\Debug\net9.0-windows\SalonApp.csproj.GenerateResource.cache
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\obj\Debug\net9.0-windows\SalonApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\obj\Debug\net9.0-windows\SalonApp.AssemblyInfoInputs.cache
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\obj\Debug\net9.0-windows\SalonApp.AssemblyInfo.cs
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\obj\Debug\net9.0-windows\SalonApp.csproj.CoreCompileInputs.cache
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\obj\Debug\net9.0-windows\SalonApp.csproj.Up2Date
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\obj\Debug\net9.0-windows\SalonApp.dll
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\obj\Debug\net9.0-windows\refint\SalonApp.dll
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\obj\Debug\net9.0-windows\SalonApp.pdb
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\obj\Debug\net9.0-windows\SalonApp.genruntimeconfig.cache
+D:\labs\wpf tute\24th evening salon part 2\SalonApp\SalonApp\obj\Debug\net9.0-windows\ref\SalonApp.dll
