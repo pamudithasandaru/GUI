@@ -1,0 +1,71 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\04.jpg" />
+    <None Remove="Images\1 %281%29.jpg" />
+    <None Remove="Images\floralart.png" />
+    <None Remove="Images\icon.png" />
+    <None Remove="Images\ourproducts.jpg" />
+    <None Remove="Images\slider2.jpg" />
+    <None Remove="Images\slider4.jpg" />
+    <None Remove="Images\slider5.jpg" />
+    <None Remove="Images\sliderbg.jpg" />
+    <None Remove="Videos\1video.mp4" />
+    <None Remove="Videos\2v.mp4" />
+    <None Remove="Videos\videoplayback %281%29.mp4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="GrayscaleEffect" Version="1.0.1" />
+    <PackageReference Include="Stub.System.Data.SQLite.Core.NetStandard" Version="1.0.119" />
+    <PackageReference Include="System.Data.SQLite" Version="1.0.119" />
+    <PackageReference Include="System.Data.SQLite.Core" Version="1.0.119" />
+    <PackageReference Include="System.Data.SQLite.EF6" Version="1.0.119" />
+    <PackageReference Include="System.Data.SQLite.Linq" Version="1.0.119" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\04.jpg" />
+    <Resource Include="Images\ourproducts.jpg" />
+    <Content Include="Videos\videoplayback (1).mp4">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Resource Include="Images\1 (1).jpg" />
+    <Resource Include="Images\floralart.png" />
+    <Resource Include="Images\icon.png" />
+    <Resource Include="Images\slider2.jpg" />
+    <Resource Include="Images\slider4.jpg" />
+    <Resource Include="Images\slider5.jpg" />
+    <Resource Include="Images\sliderbg.jpg" />
+    <Content Include="Videos\1video.mp4">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Videos\2v.mp4">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Resource1.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resource1.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Resource1.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource1.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>
